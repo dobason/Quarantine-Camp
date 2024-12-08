@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ri-home-smile-line",
+      "slug": "dashboard"
+    },
+    {
+      "url": "/search-patients",
+      "name": "Search Patients",
+      "icon": "menu-icon tf-icons ri-user-search-line",
+      "slug": "search-patients"
+    },
+    {
+      "url": "/create-patient",
+      "name": "Create Patient",
+      "icon": "menu-icon tf-icons ri-user-add-line",
+      "slug": "create-patient"
+    }
+  ]
+}
