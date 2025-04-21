@@ -12,6 +12,29 @@
    </a>
 </h1>
 
+## 🧾 Overview  
+The **Quarantine Camp Management System** is a web-based application developed using **Core PHP** and **Blade** to manage patient information in a COVID-19 quarantine camp. It helps medical staff streamline daily operations such as tracking patient health, assigning rooms, and managing isolation timelines.
+
+## 🚀 Features
+
+### For Admin/Medical Staff  
+- Add, update, and delete patient records  
+- Assign patients to rooms and track room occupancy  
+- Record and monitor symptoms, temperature logs, and test results  
+- Generate reports on patient recovery and camp statistics
+
+### For Patients (Optional Frontend Interface)  
+- View personal quarantine timeline and health logs  
+- Receive automated updates about quarantine status  
+- Access uploaded COVID test reports
+
+## 🧰 Tech Stack  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Framework:** Laravel  
+- **Backend:** Core PHP  
+- **Database:** MySQL  
+- **Version Control:** Git & GitHub
+
 ## Installation ⚒️
 
 Installing and running Materio is super easy, please Follow below steps and you will be ready to rock 🤘
@@ -46,6 +69,14 @@ yarn build
 ```bash
 php artisan serve
 ```
+
+## 📬 Contact  
+
+If you have any questions, feedback, or would like to contribute to the project, feel free to reach out:
+
+- 👤 **Đỗ Bá Sơn**  
+- 📧 Email: [son2522004@gmail.com](mailto:son2522004@gmail.com)  
+- 💼 GitHub: [dobason](https://github.com/dobason) 
 
 7. Now navigate to the given address, and you will see your application is running.🥳
 
