@@ -15,6 +15,12 @@
 ## 🧾 Overview  
 The **Quarantine Camp Management System** is a web-based application developed using **Core PHP** to manage patient information in a COVID-19 quarantine camp. It helps medical staff streamline daily operations such as tracking patient health, assigning rooms, and managing isolation timelines.
 
+## Screenshots  
+![image](https://github.com/user-attachments/assets/dd07d771-935c-4df3-8eed-1095ec101617)
+
+![image](https://github.com/user-attachments/assets/780d02d5-64b8-4f0f-93e4-d9096e17fd17)
+
+
 ## 🚀 Features
 
 ### For Admin/Medical Staff  
